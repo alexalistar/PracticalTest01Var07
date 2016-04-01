@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest01Var07</string>
+    <string name="next">Next Activity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
